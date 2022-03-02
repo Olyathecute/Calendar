@@ -1,0 +1,15 @@
+@import 'react-big-calendar/lib/css/react-big-calendar.css';
+
+body {
+  font-family: 'Roboto';
+}
+
+.rbc-event {
+  color: #f1faee;
+  text-align: center;
+  background-color: #1d3557;
+}
+
+.rbc-event:focus {
+  outline: none;
+}
